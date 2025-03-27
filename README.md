@@ -8,6 +8,14 @@ I intentionally diverge from the calculation of the _year fraction_ or _chronose
 
 ## Usage
 
+### Installation
+
+Install using `npm`:
+
+```sh
+npm i chrono-40k
+```
+
 ### Basic usage:
 
 Get imperial representations of `Date`:
