@@ -1,6 +1,6 @@
 {
   "name": "chrono-40k",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A consistent dating system for 'Warhammer 40,000'",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
