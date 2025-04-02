@@ -126,7 +126,7 @@ This is a problematic result as we just have 1000 _year fractions_ in a year, so
 
 In my calculation I replace the _Makr constant_ with two variations of the new _Marco constant_, one "default" and one for leap years.
 
-**marco_constant_default = 1 / ( ( 365 \* 24 ) / 1000 )**
+**marco_constant_default = 1 / ( ( 365 \* 24 ) / 1000 )**\
 **marco_constant_leap_year = 1 / ( ( 366 \* 24 ) / 1000 )**
 
 With theses adjustments the dating system does not work lore accurate anymore but it allows for a consistent conversion between gregorian and imperial dates.
